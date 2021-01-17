@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Live-Score-React/static/css/main.6c8a350a.chunk.css",
+    "main.js": "/Live-Score-React/static/js/main.5b7f1a3b.chunk.js",
+    "main.js.map": "/Live-Score-React/static/js/main.5b7f1a3b.chunk.js.map",
+    "runtime-main.js": "/Live-Score-React/static/js/runtime-main.eace9455.js",
+    "runtime-main.js.map": "/Live-Score-React/static/js/runtime-main.eace9455.js.map",
+    "static/js/2.95111bc4.chunk.js": "/Live-Score-React/static/js/2.95111bc4.chunk.js",
+    "static/js/2.95111bc4.chunk.js.map": "/Live-Score-React/static/js/2.95111bc4.chunk.js.map",
+    "static/js/3.324ff1b1.chunk.js": "/Live-Score-React/static/js/3.324ff1b1.chunk.js",
+    "static/js/3.324ff1b1.chunk.js.map": "/Live-Score-React/static/js/3.324ff1b1.chunk.js.map",
+    "index.html": "/Live-Score-React/index.html",
+    "static/css/main.6c8a350a.chunk.css.map": "/Live-Score-React/static/css/main.6c8a350a.chunk.css.map",
+    "static/js/2.95111bc4.chunk.js.LICENSE.txt": "/Live-Score-React/static/js/2.95111bc4.chunk.js.LICENSE.txt",
+    "static/media/vs.png": "/Live-Score-React/static/media/vs.dbdf7904.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eace9455.js",
+    "static/js/2.95111bc4.chunk.js",
+    "static/css/main.6c8a350a.chunk.css",
+    "static/js/main.5b7f1a3b.chunk.js"
+  ]
+}
