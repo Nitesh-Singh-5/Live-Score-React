@@ -1,4 +1,3 @@
-### App Link : https://nitesh-singh-5.github.io/Live-Score-React/
 
 # Getting Started with Create React App
 
